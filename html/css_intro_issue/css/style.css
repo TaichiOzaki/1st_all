@@ -1,0 +1,32 @@
+.container {
+ background-color: gray;
+ width: 400px;
+}
+
+.boxblue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: #fff;
+}
+
+.boxred {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  color: #fff;
+ }
+ 
+.box {
+  border: 1px solid yellow;
+ box-sizing: border-box;
+
+ display: inline-block;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+div{
+display: flex;
+}
